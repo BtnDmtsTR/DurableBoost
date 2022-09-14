@@ -1,0 +1,22 @@
+[
+    {
+        "kodlar": {
+            "Örnek": {
+                "isim": "Örnek",
+                "id": "jyJWQnOgiP",
+                "desc": "Örnek",
+                "modules": [
+                    "discord.js",
+                    "quick.db",
+                    "ms"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/398914394521600021/a189ecad8eda8dee0b315da77f2532a7.png",
+                "main_code": "Örnek",
+                "komutlar_code": "Örnek",
+                "kod_rank": "normal",
+                "k_adi": "☭ 𝓑𝓪𝓽𝓾∞𝓓𝓮𝓪𝓭",
+                "date": "2/6/2021"
+            }
+        }
+    }
+]
